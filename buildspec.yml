@@ -14,7 +14,7 @@ phases:
 
     commands:
 
--    docker build --tag "322549764935.dkr.ecr.ap-southeast-1.amazonaws.com/cicd-demo-ecr-01:${TAG}" .
+      - docker build --tag "322549764935.dkr.ecr.ap-southeast-1.amazonaws.com/cicd-demo-ecr-01:${TAG}" .
 
   post_build:
 
