@@ -15,7 +15,7 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>CI/CD Demo: version2.0!</h1>
+                <h1>CI/CD Demo: version1.0!</h1>
                 <h2>Congratulations</h2>
                 <p>Your ci/cd application is now running on a container in Amazon ECS.</p>
                 <?php
